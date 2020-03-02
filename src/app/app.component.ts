@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {Directive} from '@angular/core';
 
 @Component({
   selector: 'my-app',
